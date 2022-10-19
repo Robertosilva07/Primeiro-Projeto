@@ -1,0 +1,19 @@
+header{
+    background: blue;
+    padding: 10px;
+}
+
+.inicio {
+    position: left;
+    width: 100px;
+    height: 200px;
+    margin: 0 auto; 
+
+}
+
+.logo{
+    width: 200px;
+    height: 200px;
+    position:static
+
+}
