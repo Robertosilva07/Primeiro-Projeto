@@ -4,9 +4,8 @@ header{
 }
 
 .inicio {
-    position: left;
-    width: 100px;
-    height: 200px;
+    position: relative;
+    width: 800px;
     margin: 0 auto; 
 
 }
@@ -14,6 +13,6 @@ header{
 .logo{
     width: 200px;
     height: 200px;
-    position:static
+    position:left;
 
 }
